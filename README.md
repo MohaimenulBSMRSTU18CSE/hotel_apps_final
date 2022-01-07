@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 <Smart Hotel App>
 
 Developed By-
-“Team Triod”
+“Team Triode”
 
 Members-
 
